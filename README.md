@@ -1,4 +1,6 @@
-## Projeto Rock News
+# Projeto Rock News
+
+---
 
 Para instalar o app, abra o PowerShell ou Prompt na raiz do projeto e digite o comando
 ### `npm install`
